@@ -1,0 +1,6 @@
+c:\users\nazaruk\source\repos\Library\Library\bin\Debug\Library.dll
+c:\users\nazaruk\source\repos\Library\Library\bin\Debug\Library.pdb
+c:\users\nazaruk\source\repos\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+c:\users\nazaruk\source\repos\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+c:\users\nazaruk\source\repos\Library\Library\obj\Debug\Library.dll
+c:\users\nazaruk\source\repos\Library\Library\obj\Debug\Library.pdb

@@ -1,0 +1,10 @@
+c:\Users\nazaruk\source\repos\Library\ProjectDLL\bin\Debug\ProjectDLL.exe.config
+c:\Users\nazaruk\source\repos\Library\ProjectDLL\bin\Debug\ProjectDLL.exe
+c:\Users\nazaruk\source\repos\Library\ProjectDLL\bin\Debug\ProjectDLL.pdb
+c:\Users\nazaruk\source\repos\Library\ProjectDLL\bin\Debug\Library.dll
+c:\Users\nazaruk\source\repos\Library\ProjectDLL\bin\Debug\Library.pdb
+c:\Users\nazaruk\source\repos\Library\ProjectDLL\obj\Debug\ProjectDLL.csprojAssemblyReference.cache
+c:\Users\nazaruk\source\repos\Library\ProjectDLL\obj\Debug\ProjectDLL.csproj.CoreCompileInputs.cache
+c:\Users\nazaruk\source\repos\Library\ProjectDLL\obj\Debug\ProjectDLL.csproj.CopyComplete
+c:\Users\nazaruk\source\repos\Library\ProjectDLL\obj\Debug\ProjectDLL.exe
+c:\Users\nazaruk\source\repos\Library\ProjectDLL\obj\Debug\ProjectDLL.pdb
